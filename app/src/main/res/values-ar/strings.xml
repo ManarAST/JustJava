@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فقط جافا</string>
+    <string name="WhippingCream" translatable="true">كريمة</string>
+    <string name="Quantity" translatable="true">العدد</string>
+    <string name="Chocolate" translatable="true">شكولاته</string>
+    <string name="editTextHint" translatable="true">أكتب إسمك لو سمحت</string>
+    <string name="order">إطلب</string>
+    <string name="toppings">إضافات</string>
+    <string name="AddChocolate">إضافة شكولاته؟</string>
+    <string name="NameBox">الإسم:</string>
+    <string name="ThankYou">"شكراً "</string>
+    <string name="TotalBox">المجموع:</string>
+    <string name="addWhippedCream">إضافة كريمة؟</string>
+    <string name="emailSubject">طلب من فقط جافا</string>
+    <string name="lessToast">"تمزح صح ؟ "</string>
+    <string name="moreToast">ما فيه ركثر من ١٠٠ كاس</string>
+    <string name="quantityBox">العدد:</string>
+</resources>

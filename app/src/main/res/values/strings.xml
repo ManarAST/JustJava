@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="editTextHint">Write your name please</string>
+    <string name="toppings">toppings</string>
+    <string name="WhippingCream">Whipping cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="increase" translatable="false">+</string>
+    <string name="two" translatable="false">2</string>
+    <string name="decrease" translatable="false">-</string>
+    <string name="order">order</string>
+    <string name="emailSubject">a JustJava order</string>
+    <string name="NameBox"> Name: </string>
+    <string name="addWhippedCream">Add Whipped cream? </string>
+    <string name="AddChocolate">Add Chocolate? </string>
+    <string name="quantityBox">Quantity: </string>
+    <string name="TotalBox">Total: $</string>
+    <string name="ThankYou">Thank you *Heart* </string>
+    <string name="moreToast"> U cannot have more than 100 CUPs man!!</string>
+    <string name="lessToast">are U kidding me -_-</string>
+
+</resources>
